@@ -1,0 +1,3 @@
+[submodule "next-devops"]
+	path = next-devops
+	url = https://github.com/YJ-AnthonyJo/DevOps-Test
